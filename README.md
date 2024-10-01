@@ -1,6 +1,6 @@
 # WhatsApp Bug Reports
 
-This repository contains a comprehensive list of identified bugs in WhatsApp across different platforms (Android, Web, Windows) along with enhancement suggestions for improving the user experience.
+This repository contains a comprehensive list of identified bugs in WhatsApp across different platforms (Android, Web, Windows, IOS) along with enhancement suggestions for improving the user experience.
 
 ## Key Features
 
