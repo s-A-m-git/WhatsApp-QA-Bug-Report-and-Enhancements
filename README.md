@@ -23,7 +23,7 @@ Hi!
 
 I'm **Shagil Ameen M**, a passionate Software Development Engineer in Test (SDET) with a deep interest in improving user experiences by identifying critical bugs and proposing meaningful enhancements. My expertise lies in both development and testing, which allows me to bridge the gap between teams, offering creative solutions to engineering challenges. This repository showcases my deep curiosity and commitment to improving WhatsApp across platforms, ensuring users enjoy a seamless experience..
 
-Feel free to check out my [Resume](https://github.com/s-A-m-git/WhatsApp-QA-Bug-Report-and-Enhancements/blob/main/Shagil_Resume.pdf) or [CV](https://github.com/s-A-m-git/WhatsApp-QA-Bug-Report-and-Enhancements/blob/main/Shagil_Ameen_M_QA_Lead_CV.pdf) to learn more about my background and expertise.
+Feel free to check out my [Resume](https://github.com/s-A-m-git/WhatsApp-QA-Bug-Report-and-Enhancements/blob/main/Shagil_Resume.pdf) to learn more about my background and expertise.
 
 
 ## Copyright Notice
